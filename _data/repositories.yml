@@ -1,12 +1,7 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - cmtthomas
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - cmtthomas/cmtthomas.github.io
+  - u1f98e/dubhacks2022
+
