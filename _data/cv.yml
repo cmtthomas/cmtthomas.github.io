@@ -16,6 +16,14 @@
         - Description 1.
         - Description 2.
 
+    - title: Exchange Student - Computer Engineering
+      institution: Aalborg University, Aalborg, Denmark
+      year: Spring Semester 2023
+      description:
+        - Description 1.
+        - Description 2.
+
+
 - title: Experience
   type: time_table
   contents:
