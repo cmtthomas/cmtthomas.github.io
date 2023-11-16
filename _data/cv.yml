@@ -20,11 +20,11 @@
       institution: Aalborg University, Aalborg, Denmark
       year: Spring Semester 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Coursework in Statistics as well as digital logic and VHDL
+        - Completed semester project on methods of determining the accuracy of timestamps in IoT systems
 
 
-- title: Experience
+- title: Professional Experience
   type: time_table
   contents:
     - title: Cyber Security Intern
@@ -38,9 +38,20 @@
             - Sub-description 1.
             - Sub-description 2.
 
-- title: Open Source Projects
+- title: Volunteer/Community Experience
   type: time_table
   contents:
+    - title: Coding Cougs Vice President
+      year: 2022-2023
+      description: Vice President of the WSU Tri-Cities programming club. I was responsible for presenting funds requests to the University Finance Committee, where I secured funding for 15 club members to attend Dubhacks 2022 at the University of Washington.
+      I also lead the planning of a resume review workshop with about 30 attendees that connected students to local Computer Science professionals who gave feedback on what to include in their resumes and how to best communicate their unique experiences.  
+      A member since 2020, I have stayed active even when not formally in leadership, and assisted with finding reviewers for the 2023 Resume Review Workshop. 
+
+    - title: Assistant Scoutmaster - Scouts BSA
+      year: 2019-Present
+      description: Served as an adult leader for a local Scout Troop since 2019. 
+      My primary focus is on mentoring the youth in charge of the program that teaches outdoor skills to new Scouts, as well as serving as an adult leader on trips the youth plan and put together.
+
     - title: Fedora Project Volunteer
       year: 2022-Present
       description: Danish translation contributor
@@ -51,6 +62,11 @@
     - year: 2016
       items: 
         - Eagle Scout
+
+    - year: 2019
+      items:
+        - Vigil Honor
+        
     - year: 2020
       items: 
         - Washington State Opportunity Scholar (WSOS)
