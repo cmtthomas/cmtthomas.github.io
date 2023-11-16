@@ -33,11 +33,11 @@
   - firstname: ["Max"]
     url: https://en.wikipedia.org/wiki/Max_Planck
 
-"Pedersen"
+"Pedersen":
   - firstname: ["Steffen Tidou"]
 
-"Jensen"
+"Jensen":
   - firstname: ["Thomas Møller"]
 
-"Abukar"
+"Abukar":
   - firstname: ["Ubeyd Ali Muhamud"]
