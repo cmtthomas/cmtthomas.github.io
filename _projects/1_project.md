@@ -2,7 +2,7 @@
 layout: page
 title: Hot Air Balloon Cutdown
 description: A simple project to guard against runaway balloons
-img: assets/img/12.jpg
+img: assets/img/HAB/workbench.jpg
 importance: 1
 category: work
 ---
